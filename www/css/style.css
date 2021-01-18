@@ -1,0 +1,89 @@
+.button{
+    width: 200px;
+    height: 50px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.25), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px 
+}
+body, html { min-height:100%; }
+#distPlot{
+    height: 600px !important;
+}
+.center{
+    margin-left: -7.5px;
+    padding-bottom: 15px ; 
+    text-align:center;
+    margin-top : 10px;
+}
+.right{
+    margin-left: -7.5px;
+    padding-bottom: 15px ; 
+    text-align:right;
+    margin-top : 10px;
+}
+.tab-content{
+    margin-top : 30px;
+}
+.header{
+    padding: 10px 0px ;
+    margin : 20px auto 20px auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+    width : 90%;
+}
+.footer{    
+    height: 100px;
+    width: 100%;
+    bottom: 0;
+    background-color: #eee;
+    position:sticky;
+    height: 100px;
+}
+.well{
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);  
+}
+.sliderDisplay{
+    background-color: #f4f4f4;
+    padding: 30px 0px 0px 30px;
+    margin: 0px 0px 30px 0px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1); 
+    border-radius: 15px;
+}
+.italic{
+    font-style: italic;
+    font-size: 10px;
+
+}
+hr{
+    border: 0;
+    height: 2px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+a.italic{
+    font-style: italic;
+    font-size: 16px;
+    color: #333;
+
+}
+
+ul.nav.navbar-nav{
+   
+}
+nav.navbar{
+    width:100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    
+
+}
+.navbar-header{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.tab-content{
+    padding : 15px 0px 15px 15px;
+}
